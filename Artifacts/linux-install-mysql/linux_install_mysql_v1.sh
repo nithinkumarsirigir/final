@@ -34,3 +34,4 @@ if [ -n "$isZypper" ] ; then
 
 fi
 
+# devtestmysql
